@@ -7,7 +7,7 @@ Es un taller de 3 dias en el cual realizaremos
 
 ## API en Laravel del taller de Aprendible
 
-Desarrollaremos una API de libros como backend del servicio y realizaremos pruebas unitarias para testear la API
+Desarrollaremos una API de libros como backend del servicio y realizaremos pruebas funcionales para testear la API
 
 ## Laravel Sponsors
 
